@@ -1,0 +1,14 @@
+C:\JenkinsProject\JenkinsProject\bin\Debug\net10.0\JenkinsProject.exe
+C:\JenkinsProject\JenkinsProject\bin\Debug\net10.0\JenkinsProject.deps.json
+C:\JenkinsProject\JenkinsProject\bin\Debug\net10.0\JenkinsProject.runtimeconfig.json
+C:\JenkinsProject\JenkinsProject\bin\Debug\net10.0\JenkinsProject.dll
+C:\JenkinsProject\JenkinsProject\bin\Debug\net10.0\JenkinsProject.pdb
+C:\JenkinsProject\JenkinsProject\obj\Debug\net10.0\JenkinsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\JenkinsProject\JenkinsProject\obj\Debug\net10.0\JenkinsProject.AssemblyInfoInputs.cache
+C:\JenkinsProject\JenkinsProject\obj\Debug\net10.0\JenkinsProject.AssemblyInfo.cs
+C:\JenkinsProject\JenkinsProject\obj\Debug\net10.0\JenkinsProject.csproj.CoreCompileInputs.cache
+C:\JenkinsProject\JenkinsProject\obj\Debug\net10.0\JenkinsProject.dll
+C:\JenkinsProject\JenkinsProject\obj\Debug\net10.0\refint\JenkinsProject.dll
+C:\JenkinsProject\JenkinsProject\obj\Debug\net10.0\JenkinsProject.pdb
+C:\JenkinsProject\JenkinsProject\obj\Debug\net10.0\JenkinsProject.genruntimeconfig.cache
+C:\JenkinsProject\JenkinsProject\obj\Debug\net10.0\ref\JenkinsProject.dll
